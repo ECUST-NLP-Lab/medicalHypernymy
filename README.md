@@ -1,13 +1,7 @@
-# medicalHypernymy
+# Medical Hypernymy Detection Dataset
 
 This repository provides two corpora which contain hypernymy pairs of medical terms, both in English and Chinese. The corpora also contain negative instances, and have been splited into training sets, test sets and validation sets.
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg .tg-bzci{font-size:20px;text-align:center;vertical-align:top}
-.tg .tg-4kyz{font-size:20px;text-align:center}
-</style>
+
 <table class="tg">
   <tr>
     <th class="tg-bzci" colspan="2">Dataset</th>
@@ -55,54 +49,40 @@ This repository provides two corpora which contain hypernymy pairs of medical te
   </tr>
 </table>
 
-##English Corpus
+## English Corpus
 We extract terms which are labeled as "clinical finding" in SNOMED CT, and their children to construct positive hypernymy instances. We also take hyponymy, synonymy and unrelated pairs as negative instances. 
 
-##Chinese Corpus
+## Chinese Corpus
 We select six Chinese healthcare websites, and extract hypernymy and synonymy relations between symptoms from semi-structured and unstructured data on the detail pages. We set hypernymy symptom pairs as positive instances, hyponymy, synonymy and unrelated symptom pairs as negative instances.
 
-Six Chinese Healthcare Websites
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg .tg-s6z2{text-align:center}
-</style>
+### Six Chinese Healthcare Websites
 <table class="tg">
   <tr>
-    <th class="tg-s6z2">XYWY</th>
-	<a href="http://www.xywy.com/">
-    <th class="tg-s6z2">http://www.xywy.com/</th>
-	</a>
+    <th>Website</th>
+    <th>URL</th>
   </tr>
   <tr>
-    <td class="tg-s6z2">120ask</td>
-	<a href="http://www.120ask.com/">
-    <td class="tg-s6z2">http://www.120ask.com/</td>
-	</a>
+    <th>XYWY</th>
+    <th><a href="http://www.xywy.com/">http://www.xywy.com/</a></th>
   </tr>
   <tr>
-    <td class="tg-s6z2">39Health<br></td>
-	<a href="http://www.39.net/">
-    <td class="tg-s6z2">http://www.39.net/</td>
-	</a>
+    <td>120ask</td>
+    <td><a href="http://www.120ask.com/">http://www.120ask.com/</a></td>
   </tr>
   <tr>
-    <td class="tg-s6z2">99Health</td>
-	<a href="http://www.99.com.cn/">
-    <td class="tg-s6z2">http://www.99.com.cn/</td>
-	</a>
+    <td>39Health<br></td>
+    <td><a href="http://www.39.net/">http://www.39.net/</a></td>
   </tr>
   <tr>
-    <td class="tg-s6z2">      Familydoctor      </td>
-	<a href="http://www.familydoctor.com.cn/">
-    <td class="tg-s6z2">         http://www.familydoctor.com.cn/         </td>
-	</a>
+    <td>99Health</td>
+    <td><a href="http://www.99.com.cn/">http://www.99.com.cn/</a></td>
   </tr>
   <tr>
-    <td class="tg-s6z2">Fh21</td>
-	<a href="http://www.fh21.com.cn/">
-    <td class="tg-s6z2">http://www.fh21.com.cn/</td>
-	</a>
+    <td>Familydoctor</td>
+    <td><a href="http://www.familydoctor.com.cn/">http://www.familydoctor.com.cn/</a></td>
+  </tr>
+  <tr>
+    <td>Fh21</td>
+    <td><a href="http://www.fh21.com.cn/">http://www.fh21.com.cn/</a></td>
   </tr>
 </table>
