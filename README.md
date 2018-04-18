@@ -50,7 +50,7 @@ This repository provides two corpora which contain hypernymy pairs of medical te
 </table>
 
 ## English Corpus
-We extract terms which are labeled as "clinical finding" in SNOMED CT, and their children to construct positive hypernymy instances. We also take hyponymy, synonymy and unrelated pairs as negative instances. 
+We extract terms which are labeled as "clinical finding" in SNOMED CT, and their children to construct positive hypernymy instances. We also take hyponymy and unrelated pairs as negative instances. 
 
 ## Chinese Corpus
 We select six Chinese healthcare websites, and extract hypernymy and synonymy relations between symptoms from semi-structured and unstructured data on the detail pages. We set hypernymy symptom pairs as positive instances, hyponymy, synonymy and unrelated symptom pairs as negative instances.
