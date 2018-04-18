@@ -1,6 +1,6 @@
-# Medical Hypernymy Detection Dataset
+# Medical Hypernymy Detection Datasets
 
-This repository provides two corpora which contain hypernymy pairs of medical terms, both in English and Chinese. The corpora also contain negative instances, and have been splited into training sets, test sets and validation sets.
+This repository provides two corpora which contain hypernymy pairs of medical terms in English and Chinese. The corpora also contain negative instances, and have been splited into training sets, test sets and validation sets.
 
 <table>
   <tr>

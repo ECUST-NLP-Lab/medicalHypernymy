@@ -1,0 +1,531 @@
+Primitive reflex finding,Plantar reflex finding
+Abnormal evoked potential,Normal auditory evoked potential
+Membranous balance of dura mater,Membranous balance
+Finding of fetal heart rate variability,Finding of volume of fetal heart sounds
+Finding of protein level,Finding of phenylalanine level
+Hemianesthesia,Hemisensory loss
+Character trait observations of self-sufficiency,Character trait observations of level of sociability
+Asthma finding (finding),Testis TNM finding (finding)
+Finding of sufficiency of income for needs,Finding of fitness for work
+Increased range of shoulder movement,Decreased active range of shoulder flexion
+Seen by gynaecology service,Seen by clinical genetics service (finding)
+Finding of nerve conduction,Finding of attitude
+Finding of passive range of finger abduction,Decreased passive range of finger flexion
+Ampulla of Vater TNM finding (finding),Supraglottis TNM finding (finding)
+Finding of hormone level,Finding of serum bilirubin level
+Finding of red blood cell morphology,Finding of motor unit morphology
+Finding of form of spine,Finding of form of pelvis and buttocks
+Finding related to ability to push and pull while running,Finding related to ability to turn
+Finding related to ability to make speech sounds,Finding related to ability to use urine bottle
+O/E - legs,O/E - pupil dilated
+Finding of iliac structure (finding),Finding of sacroiliac joint (finding)
+Does not balance,Does not move jaw
+Observation of sperm,Observation of size of bladder
+Pain of respiratory structure,Pain of ear structure
+Able to use domestic equipment,Able to use cutlery to feed self
+Observation of contour of abdomen,Observation of salivation
+Finding related to attitude of foetus,Finding related to onset of pain (finding)
+O/E - pain sensation,O/E - orthopnoea
+Finding related to ability to use hearing aid,Finding related to self-esteem
+On examination - foetal heart > 200,O/E - fetal heart > 200
+Finding of passive range of thoracic spine right lateral flexion,Decreased range of thoracic spine movement
+Observation of cough,Observation of proportion of pupil
+Obesity monitoring status,Cardiac disease monitoring status
+Finding of urine appearance,Dribbling of urine
+Meconium stained amniotic fluid,Deficient amniotic fluid
+Left sided abdominal pain,Left flank pain
+Finding related to ability to cater for others,Finding related to ability to produce appropriate pitch
+Finding of active range of toe extension,Finding of range of wrist extension
+Asthma daytime symptoms (finding),Asthma daytime symptoms (finding)
+Finding related to ability to store laundry,Finding related to ability to turn on mains electricity supply
+Finding of red blood cell morphology,Finding of sperm morphology
+Finding of volume of sputum,Finding of volition
+Finding of intellectual ability,Finding of volition
+Finding of lower limb,Internal rotation of lower limb
+Hematopoietic system finding,Sensory nervous system finding
+Finding of appearance of denture,Finding of amniotic fluid appearance
+Under care of clinical nurse specialist,Under care of restorative dentist
+Finding of synovial fluid cell count,Finding of ascitic fluid chemistry
+Finding related to decision making,Finding related to ability to prepare feed
+Normal range of wrist movement,No active range of wrist pronation
+Pain in lower limb,Pain in lower limb
+ECG: myocardial infarction,ECG: no myocardial infarction
+Does not perform toileting activities,Does not participate in leisure activities
+Finding related to ability to hold drinks,Finding related to ability to manage appliance when undressing
+Observations of resonance of voice,Observations of quality of voice
+Observation of ear discharge,Observation of falls
+Patient registration status,Patient registration data status
+Observation of right ventricle,Observation of appetite
+Lesion of oesophagus,Lesion of mucosa
+Thoracic back pain,Thoracic back pain
+Observation of joint of thumb,Observation of aura
+Finding of quality of informal care,Finding of quality of visual image
+Finding of initiative,Finding of general development
+On examination - skin (finding),On examination - coordination (finding)
+Observation of ankle region,Observation of gait
+O/E - foot,O/E - pulse rate
+Finding related to ability to use different forms of conversation,Finding related to ability to control drinking
+Seen by geneticist,Seen by clinical hematologist
+Nervous system finding,Nervous system finding
+Does not balance,Does not cook food
+Observation of umbilical stump,Observation of balance
+Able to make speech sounds,Able to recognize sounds
+Paralysis,Paralysis absent
+Finding of lateralization of sound,Finding of defaecation
+Decreased range of lumbar spine movement,Decreased active range of cervical spine right rotation
+Patient registration status,Patient status stable
+Finding related to ability to take drink to mouth,Finding related to ability to speak at normal rate
+Difficulty moving soft palate,Difficulty moving soft palate
+Foetal head flexed,Foetal head extended
+Finding of semen measurement,Finding of semen fertility
+O/E - legs,O/E - orthopnoea
+Finding of employment status,Finding of eroticism
+Finding of initiative,Finding of sperm morphology
+Finding of cardiac conduction pattern,Finding of mixed nerve conduction pattern
+Normal range of finger movement,Decreased active range of finger flexion
+Immunization invitation status,Immunization invitation status
+Finding of cardiac conduction pattern,Finding of cardiac enzyme levels
+On examination - presenting part station (finding),On examination - Absent right foot pulses (finding)
+Mass of musculoskeletal structure,Mass of neck
+Mass of lower limb,Numbness of lower limb
+Surgical endocervical margin finding (finding),Surgical margin uninvolved by lymphoma (finding)
+Finding of details of telephone in the home,Hazards in the home
+Weight trend finding,Weight trend finding
+O/E - vibration sense absent,O/E - vibration sense right foot reduced
+Observation of finger joint,Edema of finger
+Breast tubule formation finding (finding),Breast finding
+Cervical smear status,Cervical smear overdue (finding)
+Observation of joint of toe,Observation of brain
+On examination - mouth region (finding),On examination - Absent right foot pulses (finding)
+Bone density finding (finding),Monocyte finding (finding)
+Observation of shoulder region,Observation of fertility
+Finding related to ability to rise from squatting,Finding related to ability to get off a bed
+Finding related to ability to use different forms of conversation,Finding related to ability to tiptoe
+Finding related to ability to dry washing,Finding related to ability to get on and off toilet
+Finding of skin reaction,Finding of self-control
+Under care of counselor (finding),Under the care of psychologist (finding)
+Difficulty standing up,Difficulty running up steps
+Under care of clinical nurse specialist,Under care of anesthetist
+Obesity monitoring status,Clinic monitoring status
+Finding related to ability to swallow,Finding related to ability to maintain a sitting position
+Tumor invasion finding (finding),Tumor invasion finding (finding)
+Patient registration - data queries,Patient registration data unknown
+Observation of joint of thumb,Observation of deformity of joint of thoracic spine
+Does not skip,Does not crouch
+Finding of eating ability,Finding of ability to see
+Observation of a mass,Observation of balance
+Observation of sensation of testes,Observation of sensation of cervix
+Under care of podiatrist,Under care of geneticist
+Unable to perform oral motor functions,Unable to perform catering activities
+Able to perform personal hygiene activity,Able to perform bathing activity
+Finding of initiative,Finding of presence of crystals
+Observation of sensation of touch,Observation of praxis
+Pain by sensation quality (finding),Pain provoked by rest (finding)
+Thought commentary,Thought commentary
+Drift on horizontal movement of eyes,Pain on movement of skin
+Tumor invasion finding (finding),Tumor regression finding (finding)
+O/E - visual acuity R-eye,O/E - pinhole visual acuity right eye=6/24
+Cardiac function test abnormal,Sweat test abnormal
+Finding of position of lens,Finding of position of vocal cord at rest
+Able to mobilize,Able to control breathing
+Finding of character of pulse,Finding of eroticism
+Finding related to ability to stand in bath,Finding related to ability to recognise self
+Femoral pulse present,Posterior tibial pulse present
+Finding related to ability to imitate speech sounds,Finding related to ability to perform activities related to using transport
+Finding related to ability to move all four limbs,Finding related to ability to eat
+Lesion of oesophagus,Lesion of neck
+Finding related to ability to get out of shower,Finding related to ability to tell the time
+Observation of face,Observation of quantity of drinking
+On examination - specified examination finding (finding),On examination - epigastric pain on palpation (finding)
+Character trait observations of self-sufficiency,Character trait observations of level of curiosity
+Observation of walking,Observation of oesophagus
+Metastasis stage finding,Dukes stage finding (finding)
+Character trait observations of self-sufficiency,Character trait observations of ability to learn from adverse experience
+On examination - behavioral (finding),On examination - general skin examination (finding)
+Finding related to ability to mobilise outside,Finding related to ability to retract tongue
+Finding of arrangement of foetus,Finding of libido
+Lesion of lung,Lesion of lip
+Character trait observations of level of assertiveness,Character trait observations of flexibility
+Surgical pancreatic margin finding (finding),Surgical mesenteric margin finding (finding)
+On examination - behavioral (finding),On examination - maxillary sinus pain (finding)
+Finding of hair characteristics,Finding of defaecation
+Finding of cardiac conduction pattern,Finding of electromyogram interference pattern
+Health seeking behavior alteration,Health maintenance alteration
+Finding related to ability to move leg,Finding related to ability to perform information technology activities
+Finding of visual evoked potential symmetry,Finding of visual evoked potential symmetry
+Abnormal urine,Abnormal urine
+O/E - pain sensation,O/E - dysarthria
+Skin observation,Skin observation
+Finding related to ability to change position,Finding related to ability to turn on mains electricity supply
+Observation of involuntary movement,Observation of sensation
+Country of birth - African,Country of birth - American continent
+O/E - foot,O/E - smell abnormal
+Observations relating to retention of information,Observations relating to advocacy
+Anal canal TNM finding (finding),Thyroid TNM finding (finding)
+Observation of rate of respiration,Observation of lacrimation
+Primitive reflex finding,Supinator reflex finding
+Pain in female genitalia,Pain in pelvis
+Soft tissue X-ray normal,Soft tissue crepitus
+Observation of hand region,Observation of body region
+Finding related to ability to sit in bath,Finding related to ability to perform road safety drill
+Finding related to ability to use self-expression,Finding related to ability to use toiletries
+Finding related to ability to maintain elevation of soft palate,Finding related to ability to spit
+Finding of texture of hair,Finding of defaecation
+Deformity of lower limb (finding),Bowing of upper limb (finding)
+Pain in wrist (finding),Pain in axilla
+Finding related to ability to move tongue laterally,Finding related to ability to throw
+Difficulty performing toileting activities,Difficulty performing laundry activities (finding)
+Surgical endocervical margin finding (finding),Surgical margin uninvolved by sarcoma (finding)
+Increased range of thoracic spine movement,Increased passive range of lumbar spine right rotation
+Finding related to ability to move jaw repeatedly,Finding related to ability to speak
+Observation of large intestine,Observation of sweating
+Asthma disturbing sleep,Asthma disturbing sleep
+Application to register disabled report payment claim status,Driving licence fitness report payment claim status
+Finding of skin reaction,Finding of pupil afferent light reaction
+Observation of ocular balance,Loss of balance
+Finding of gross movement of body and limbs,Finding of pupil movement
+Finding of nerve conduction,Finding of motor nerve conduction pattern
+Observation of measures of lower limb,Observation of measures of urine output
+Finding of contents of stool,Finding of judgement
+Observation of sexual function,Observation of vomiting
+Finding related to ability to perform gross motor function,Finding related to ability to manage prosthesis
+Cervical smear status,Cervical smear refused
+General symptom (finding),General symptom description
+Finding related to ability to use phonological processes,Finding related to ability to shuffle
+Does not move,Does move tongue laterally
+Finding of movement of trachea,Finding of eroticism
+Dental crown incorrect shade,Dental crown lost
+Loss of body fat,Loss of balance
+Increased bilirubin level,Increased bilirubin level
+Does not make conversation,Does not make self understood
+Finding of secondary sexual characteristics (finding),Finding of surface characteristics of breast
+Able to transfer location (finding),Able to breathe (finding)
+Finding related to ability to use washing machine,Finding related to ability to move food in mouth
+Does make conversation,Does not initiate conversation
+Finding of pelvis (finding),Finding of secondary sexual characteristics (finding)
+Finding of odour of stool,Finding of self-control
+Finding of sensation by site (finding),Finding of mouth region (finding)
+Finding of form of spine,Finding of passive range of thoracic spine extension
+Finding of lower limb,Numbness of lower limb
+Does not perform hand functions,Does not move hand
+Finding related to ability to mobilise outside,Finding related to ability to raise head
+Finding of pelvis (finding),Finding of serum creatine kinase level (finding)
+Observation of ocular balance,Observation of finger
+Finding of protein level,Finding of attitude
+Swelling of upper limb (finding),Flaccidity of muscle of upper limb
+Finding of nerve conduction pattern,Finding of cardiac conduction
+Finding related to ability to make speech sounds,Finding related to ability to move body part
+Finding related to ability to crouch,Finding related to ability to remember month of year
+Finding of presence of bacteria,Finding of presence of poison
+Finding of ankle or foot (finding),Finding of hyphal elements (finding)
+Observation of head region,Observation of neonate
+Finding related to ability to remember day of the week,Finding related to ability to speak
+Patient position finding (finding),Ventilation-perfusion finding (finding)
+Surgical margin finding (finding),Lymphoma finding (finding)
+O/E - retinal inspection,O/E - optic disc inspection
+Very heavy cigarette smoker (finding),Occasional cigarette smoker (finding)
+Tolerance related finding (finding),Tolerance related finding (finding)
+Decreased range of finger movement,No active range of finger flexion
+Does not manage clothes fastenings,Does not manage stairs on bottom
+Abnormal vascular flow,Reversed vascular flow
+Respiratory function finding,Respiratory function finding
+Finding of ocular accommodation,Finding of defaecation
+Scratch of trunk,Scratch of shoulder
+Disturbed sleep pattern,Poor sleep pattern
+Cognitive perceptual finding,Cognitive perceptual pattern
+No shoulder movement,No cervical spine movement
+Finding of receipt of benefit status,Finding of Hepatitis A status
+Country of birth - Asian,Country of birth - American continent
+Abnormal deglutition (finding),Abnormal chronobiologic state (finding)
+Male distribution of body hair,Finding of distribution of body fat
+On examination - specified examination finding (finding),On examination - Cheyne - Stokes respiration (finding)
+Ankle reflex absent,Knee reflex absent
+Recumbent body position,Oblique body position (finding)
+Finding of dietary fat intake,Excessive dietary intake of potassium (finding)
+Tolerance related finding (finding),Bloodstream finding (finding)
+Finding of child weight centiles,Finding of weight of footwear
+Does not use respiratory support for speech,Does not use eyeglasses
+Finding of lower limb,Excess subcutaneous fat of lower limb
+Finding of willingness to be a donor,Finding of willingness of carer to provide care
+O/E - presenting part position,O/E - presenting part position
+Finding related to ability to swallow solids,Finding related to ability to ask questions
+Observation of temporomandibular joint,Observation of weight-bearing
+Unable to perform toileting activities,Unable to perform catering activities
+Drift on horizontal movement of eyes,Pain on movement of pinna
+Observation of brain,Observation of measures of urethra
+Observation of movement,Observation of deformity of neck
+Observation of TU interval,Observation of coordination
+Finding of iliac structure (finding),Finding of ankle or foot (finding)
+Granulocyte production finding,Platelet production finding (finding)
+Observation of neck region,Observation of meninges
+Finding of left ventricular wall motion,Finding of condition of vein wall
+Observation of sensation of abdomen,Observation of sensation of vulva
+Lymphoma finding (finding),Spirometry reversibility finding (finding)
+Readiness finding (finding),Subcutaneous tissue finding (finding)
+Finding of drug level,Finding of specific antibody level
+Abusive sexual relationship,Abusive sexual relationship
+Finding related to ability to put electric plug in socket,Finding related to ability to kick legs
+Observation of proportion of hand,Numbness of hand
+Finding related to ability to perform travelling activities,Finding related to ability to comprehend (finding)
+Difficulty moving lips,Difficulty moving lips
+Finding related to ability to make speech sounds,Finding related to ability to cut own toenails
+Disorder of form of thought,Disorder of progesterone
+Difficulty washing self,Difficulty washing laundry
+Autoimmune AND/OR graft reaction,Autoimmune AND/OR graft reaction
+Country of birth - African,Country of birth - Asian
+Decreased range of wrist movement,Decreased range of ankle movement
+On examination - tenderness (finding),On examination - posterior tibial pulse - left (finding)
+Finding of urine appearance,Finding of appearance relating to age
+Observation of tone of vagina,Observation of finger
+Observation of appearance of tonsil,Observation of appearance of stoma (finding)
+Cardiac observations,Cardiac investigative observations
+Renal tumor finding (finding),Ventilation-perfusion finding (finding)
+Observation of symmetry of tongue,Observation of orgasm
+Finding of range of elbow extension,Increased passive range of ankle extension
+Finding related to ability to adapt conversation to context,Finding related to ability to use contact lenses
+Finding of level of mood,Finding of level of mood
+Finding related to ability to adapt conversation to context,Finding related to ability to use secondary articulation
+Observation of thickness of cervix,Observation of thickness of cervix
+pM1b category (finding),pT1b2 category (finding)
+Finding related to ability to negotiate corners when running,Finding related to ability to recognise faces
+Primitive reflex finding,Biceps reflex finding
+Measurement finding within reference range,Measurement finding outside reference range
+Observation of sensation of epididymis,Observation of ejaculation
+Finding related to ability to wash laundry,Finding related to ability to tell the time
+Obsessional thoughts of causing harm to self,Obsessional thoughts of causing harm to others
+No elbow movement,No wrist movement
+Obesity monitoring status,Clinic D monitoring status
+Finding of abdomen,Finding of action potential
+Bone TNM finding (finding),Density finding (finding)
+Does not make conversation,Does terminate conversation
+Does move in bed,Lying in bed
+Low food preservative diet,Low galactose diet
+Observation of brain,Observation of skin healing
+Able to move,Able to throw objects
+Ostomy monitoring status,Well adult monitoring status
+Freezing reflex finding,Knee reflex finding
+Finding related to ability to perform dressing activity,Finding related to ability to get on to toilet
+Finding of protein level,Finding of shouting
+Skin melanoma TNM finding (finding),Small intestine TNM finding (finding)
+Finding of active range of finger adduction,Finding of passive range of wrist adduction
+On examination - specified examination finding (finding),On examination - temperature discrimination reduced (finding)
+EEG abnormal,EEG abnormal
+Finding related to attitude of foetus,Finding related to ability to suck
+Finding related to ability to perform creative activity,Finding related to ability to use transport
+On examination - joint (finding),On examination - vocal cords (finding)
+Finding of passive range of thoracic spine right lateral flexion,Finding of passive range of shoulder flexion
+Difficulty playing,Difficulty playing
+Seen by complementary therapist,Seen by optometrist
+Does not use respiratory support for speech,Does not use a non-speech system for communication
+Does not make conversation,Does not crawl
+On examination - specified examination finding (finding),On examination - pulse (finding)
+Finding of bicarbonate level,Finding of poison level
+On examination - ENT,On examination - abdominal mass movement (finding)
+Finding related to ability to imitate forms of communication,Finding related to ability to retract tongue
+PUO - Pyrexia of unknown origin,Bleeding of unknown origin (finding)
+On examination - bone marrow (finding),On examination - temperature discrimination absent (finding)
+On examination - ankle clonus (finding),On examination - ciliospinal reflex positive (finding)
+Finding related to ability to get on and off furniture,Finding related to ability to remove prosthesis
+Loose dental restoration,Leaking dental restoration
+Patient call status,Patient participation status
+Finding related to ability to recognise surroundings,Finding related to ability to communicate about self
+Observation of neonate,Observation of joint swelling
+Finding of level of mood,Finding of viral antibody level
+Finding related to ability to use bedpan,Finding related to ability to manage appliance when dressing
+Finding related to ability to communicate about self,Finding related to ability to feed self with left hand
+On examination - lens (finding),On examination - vaginal examination - os 0-1 cm dilated (finding)
+Finding related to ability to use private transport,Finding related to ability to use decision making strategies (finding)
+Antenatal HIV blood screening test status,Antenatal hepatitis B blood screening test offered (finding)
+Finding of growth of parasites,Finding of pH
+Finding related to ability to move soft palate,Finding related to ability to care for pet
+Observation of neck region,Observation of hand region
+Unable to recognise objects,Unable to recognise objects
+Observation of neonate,Observation of joint of toe
+Finding related to ability to mobilise outside,Finding related to ability to chew
+Mass of digestive structure,Mass of male genital structure
+Finger-finger test finding,Heel-shin test finding
+Finding related to ability to move tongue laterally,Finding related to ability to lie down
+Sexual aggression (finding),Redirected aggression (finding)
+Finding of colour of nasal mucosa,Lesion of nasal mucosa
+Measurement finding,Measurement finding above reference range
+Finding related to ability to mobilise outside,Finding related to ability to swallow
+Finding of abdomen,Finding of chest expansion
+Dehydration of abdominal skin,Swelling of skin
+Geriatric screening status,Geriatric screening status
+Finding related to ability to run up hill,Finding related to ability to use feeding aid
+Finding of drug level,Finding of serum alpha-fetoprotein level
+On examination - joint (finding),On examination - tactile discrimination abnormal (finding)
+Observation of pattern of pain,Observation of ovulation
+Finding of Lasegue test,Finding of judgement
+Observation of finger,Observation of artificial lens
+Finding of eating ability,Finding of judgement
+Non-pitting edema (finding),Corneal stromal edema (finding)
+Observations relating to grief and dying,Observations relating to reminiscing
+On examination - specified examination finding (finding),On examination - unconscious/comatose (finding)
+Pain of uterus,Observation of gravid uterus
+Observation of size of scapula,Observation of size of globe
+Observation of symmetry of tongue,Fasciculation of tongue
+Observations of seizure,Observations of perceptual performance
+Finding of characteristics of home environment,Finding of hair characteristics
+Finding of thigh (finding),Finding of blood ketone level (finding)
+Cares for sick or handicapped family member (finding),Cares for sick or handicapped family member (finding)
+Finding of straight leg raise,Finding of form of leg
+On examination - joint (finding),On examination - lumbar pain on palpation (finding)
+Decreased range of lumbar spine movement,No passive range of lumbar spine extension
+Finding related to ability to stand in bath,Finding related to ability to manage time
+Finding related to ability to take drink to mouth,Finding related to ability to participate in leisure activities
+Finding of protein level,Finding of level of mood
+Observation of quantity of menstrual blood loss,Observation of quantity of eating
+Unable to perform travelling activities,Unable to perform lip rounding
+Drug therapy compliance observations (finding),Drug therapy compliance observations (finding)
+Finding of passive range of shoulder adduction,Decreased passive range of hip adduction
+Does not perform nail care activities,Does perform nail care activities
+Observation of cough,Observation of bowel continence
+Asthma finding (finding),Histological grade finding (finding)
+Observation of pulsation of prolapsed cord,Observation of spinal cord
+Inadequate safety equipment (finding),Inadequate premedication (finding)
+Finding of serum triglyceride levels,Finding of electrolyte levels
+Somatic dysfunction (finding),Motor dysfunction (finding)
+Decreased range of finger movement,Decreased active range of shoulder flexion
+O/E - joint stable,O/E - undernourished
+Observation of involuntary movement,Observation of weight-bearing
+Finding related to ability to comply with treatment (finding),Finding related to ability to drink using straw
+Finding related to ability to cater for others,Finding related to ability to clean floor
+Finding related to ability to mobilise outside,Finding related to ability to clean washbasin
+On examination - specified examination finding (finding),On examination - patellar clonus (finding)
+Unable to grip,Unable to communicate intentions
+Patellar clonus (finding),Anodal opening clonus (finding)
+Does not balance,Does not fall
+Finding of enzyme level,Finding of enzyme level
+Finding related to ability to move soft palate,Finding related to ability to ask questions
+Cardiac function test abnormal,Guthrie test abnormal
+Observation of tone of vagina,Observation of walking
+Finding of pH,Finding of presence of organism
+FIGO uterine tumour stage finding,FIGO stage finding for vulvar melanoma
+Unable to remember own date of birth,Able to remember own date of birth
+Finding of movement of trachea,Finding of attitude
+Cognitive function finding (finding),Asthma finding (finding)
+Neurogenic bladder (finding),Neurogenic hyperthermia (finding)
+Observation of head region,Observation of vomiting
+Finding of electrolyte levels,Finding of serum lipid levels
+On examination - appearance (finding),On examination - pain and sensation (finding)
+Finding related to ability to stand at toilet,Finding related to ability to cope with pain
+Child examination finding,Child height centile finding
+Finding of frequency of payment of income,Finding of household income
+Finding related to ability to put lid on container,Finding related to ability to throw
+Finding of sensation by site (finding),Finding of pubic bone (finding)
+Finding of shouting,Finding of quality of orgasm
+On examination - specified examination finding (finding),On examination - a deformity (finding)
+Finding of catering source,Finding of pH
+Deformity of foot,Observation of temperature of foot
+Finding of pupil movement,Finding of regularity of pupil
+Observation of ear discharge,Observation of finger
+Finding related to ability to put electric plug in socket,Finding related to ability to communicate in different places
+Observation of measures of dialysis,Observation of lacrimation
+Finding of semantic memory performance,Finding of memory for present month
+O/E - visual acuity L-eye,O/E - visual acuity without glasses
+Finding related to ability to rise from squatting without using hands,Finding related to ability to hop
+Observation of measures of dialysis,Observation of flatus
+Finding related to menstrual cycle (finding),Finding related to reproductive risk factor (finding)
+Standing in water,Position in water
+Unable to perform travelling activities,Able to carry out travelling activities
+Finding related to ability to undo clothes fastenings,Finding related to ability to thread a needle
+Finding related to ability to tie shoe laces,Finding related to ability to stand in bath
+Finding of protein level,Finding of serum creatine kinase level (finding)
+Health-related behaviour finding,Predictability of behaviour finding
+Finding of lower limb,Finding of lower limb
+Vagina TNM finding (finding),Glottis TNM finding (finding)
+Finding of muscle tone,Finding of volition
+Does transfer location (finding),Does transfer weight
+On examination - pain (finding),On examination - vaginal examination - os 8-10cm dilated (finding)
+On examination - specified examination finding (finding),On examination - multiple presentation (finding)
+Does use self-expression,Does not use humor
+Lesion of mucosa,Lesion of prostate
+Observation of limb structure,Observation of colon
+Bone density finding (finding),Suck finding (finding)
+Observation of limb structure,Observation of scapular structure
+Finding of range of elbow extension,Finding of range of elbow supination
+Finding related to ability to find words,Finding related to ability to manage prosthesis
+HF - High fat diet,VLF - Very low fat diet
+Finding of length of gestation,Finding of attitude
+Finding related to ability to dry washing,Finding related to ability to adjust clothing
+Blood drug level high,Phenytoin level high
+Finding related to ability to crouch,Finding related to ability to get out of shower
+Finding related to ability to change position,Finding related to ability to ride a motorbike
+Observation of size of lip,Observation of thumb
+Observation of knee region,Observation of smegma
+Finding related to ability to perform hand functions,Finding related to ability to manage appliance when dressing
+On examination - respiratory (finding),On examination - scrotum (finding)
+Finding of eye movement,Finding of knee joint - range of movement
+Imaging of genitourinary system abnormal,Imaging of spleen abnormal (finding)
+On examination - pupil reaction (finding),On examination - cremasteric reflex positive (finding)
+Finding of muscle tone,Finding of attitude
+Finding of size of prostate,Finding of defaecation
+Abnormal radiologic density,Abnormal density
+Country of birth - Pacific,Country of birth - Australasian
+Observation of heart rate,Observation of tinnitus
+Finding of aorta,Finding of wardship
+Able to make speech sounds,Able to use speech appropriately
+Right eye visual acuity -corrected (finding),On examination - left eye visual acuity - corrected (finding)
+Lateral surgical margin involvement by tumour present,Lateral surgical margin involvement by tumour present
+Unable to move,Unable to sit unsupported
+Report payment claim status,Police request to attend payment claim status
+Finding related to ability to crouch,Finding related to ability to walk up a slope
+Low food preservative diet,Low calcium diet
+Finding of character of pulse,Finding of wardship
+Head finding (finding),Ophthalmic test finding (finding)
+Thyroid disease monitoring status,Hypertension monitoring status
+Dehydration of abdominal skin,Blanching of skin
+Does not make conversation,Does make conversation
+Finding of form of ribs,Finding of form of foot
+Finding related to ability to move jaw repeatedly,Finding related to ability to perform oral motor function
+Observation of hand region,Dysfunction of hand
+Finding of position of vocal cord at rest,Finding of position of nipple
+On examination - skin (finding),On examination - white vaginal discharge (finding)
+Finding relating to drug misuse behaviour,Finding relating to drug misuse behaviour
+Observation of a mass,Observation of ovulation
+Does not perform bathing activity,Does not perform personal care activity
+Anxiety about loss of control,Anxiety about loss of control
+Finding of secondary sexual characteristics (finding),Finding of auditory acuity (finding)
+Pregnancy test positive,Bragard test positive
+Finding related to ability to stand in bath,Finding related to ability to carry prepared food
+Finding related to ability to protrude tongue,Finding related to ability to move from lying to sitting
+Finding of drug tolerance,Finding of judgement
+Finding of family milestones,Finding of place in family order
+Observation of vaginal discharge,Observation of sperm
+Unable to participate in leisure activities,Unable to participate in sporting activities
+Seen by clinical nurse specialist,Seen by clinical nurse specialist
+Does not run,Does not manage prosthesis
+Observation of vaginal discharge,Purulent vaginal discharge
+Unable to move,Unable to control drinking
+Observation of shoulder region,Observation of oesophagus
+Observation of right ventricle,Observation of coordination
+Finding related to ability to move arm,Finding related to ability to sit down on a chair
+Finding related to ability to imitate speech sounds,Finding related to ability to communicate with different people
+Finding of frequency of payment of income,Finding of sufficiency of income for needs
+On examination - specified examination finding (finding),On examination - bone deformed (finding)
+Elbow joint crepitus,Foot joint crepitus
+Finding of phase of fever,Finding of libido
+Unable to perform toileting activities,Unable to perform mouthcare activities
+Finding of straight leg raise,Finding of straight leg raise
+Functional observations of gastrointestinal tract,Imaging of gastrointestinal tract abnormal
+Finding of arrangement of foetus,Finding of wardship
+Pain of digestive structure,Pain of uterus
+Tenderness of truncal structure,Tenderness of body structure
+Observation of posterior choanae,Observation of sperm
+Finding related to ability to use urine bottle,Finding related to ability to undertake job application activities
+Under care of counselor (finding),Under care of neurosurgeon
+Bladder observation,Bladder observation
+Finding related to ability to use urine bottle,Finding related to ability to rise from squatting
+Mass of respiratory structure,Mass of skin
+pT2 (II): Cervical carcinoma invades beyond uterus but not to pelvic wall or to lower third of vagina (TNM category and FIGO stage) (uterine cervix) (finding),pT2 (II): Tumor invades cervix but does not extend beyond uterus (TNM category and FIGO stage) (corpus uteri) (finding)
+Observation of ocular balance,Observation of oesophagus
+Does use washing facilities,Does not use washing machine
+Observation of sensation,Observation of conductivity of sound
+General finding of observation of patient,General appearance of patient
+Imaging of thorax abnormal,Imaging of genitourinary system abnormal
+Finding of abdomen,Finding of position of uterus
+Does not use respiratory support for speech,Does not use cooker
+Intermittent urinary incontinence (finding),Mixed incontinence (finding)
+Finding by site,Finding by site
+Observation of foot region,Observation of vomiting

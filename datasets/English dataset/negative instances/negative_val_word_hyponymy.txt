@@ -1,0 +1,650 @@
+Decreased passive range of elbow supination,Decreased range of elbow movement
+O/E - pulse rate - bradycardia,O/E - pulse rate
+Hyperkeratosis of vulva,Eruption of vulva
+Prominent leg veins - symptom,Prominent leg veins
+Able to find words,Finding related to ability to find words
+Bull's eye maculopathy (finding),Macula observation
+Continues to trickle liquor,Female reproductive finding
+Finding of sperm motility,Observation of sperm
+Pain on movement of pinna,Observation of sensation of pinna
+Partial obstruction of airway by foreign body (finding),Obstruction of airway by foreign body (finding)
+Seen by orthodontist,Seen by dental surgeon
+Unable to push and pull a large wheeled toy backwards,Finding related to ability to push and pull a large wheeled toy backwards
+Does not perform personal hygiene activity,Finding related to ability to perform personal hygiene activity
+Abnormal structure of phospholipid,Abnormal structure of physiologic substance
+Scratch of perineum,Perineal observation
+Under care of orthopedic surgeon,Surgeon directed
+Foot joint crepitus palpable,Foot joint crepitus
+Tightness in throat,Tightness sensation
+Bladder assessment observations,Bladder observation
+Diabetes monitoring deleted,Diabetic monitoring status
+Income paid daily,Finding of frequency of payment of income
+Erection with full bladder,Inappropriate erection
+Finger joint crepitus audible,Audible crepitus of joint
+Social history baseline finding,Social and personal history finding
+Difficulty riding a bike,Difficulty using private transport
+Renal angle tenderness,Observation of sensation of kidney
+Decreased passive range of thoracic spine left lateral flexion (finding),Decreased range of thoracic spine movement
+Brassy cough,Observation of cough
+Persistent erythema of skin (finding),Erythema of skin (finding)
+New patient screening requested,New patient screening status
+Headache due to intracranial disease,HA - Headache
+Cervical smear - trichomonas,Abnormal cervical smear
+O/E - succussion splash,On examination - specified examination finding (finding)
+Mulders click present,Mulder click
+O/E - plantar - R=equivocal,O/E - legs
+pM1 (IVB): Distant metastasis (TNM category and FIGO stage) (corpus uteri) (finding),pM1: Distant metastasis
+Vitreous snowbank (finding),Vitreous inflammatory infiltrate
+Fontanelles presenting,Fontanelle observation
+Unable to perform road safety drill,Unable to perform travelling activities
+Numbness of finger,Numbness of hand
+On examination - dysdiadochokinesia (finding),On examination - coordination (finding)
+O/E - blood pressure reading,On examination - specified examination finding (finding)
+Does not carry out creative activity,Finding related to ability to perform creative activity
+Boyfriend arrested,Friend arrested
+Endothelial cell morphometry,Finding of eye measurements
+Small labia majora,Observation of size of vulval structure
+No active range of cervical spine extension,Finding of active range of cervical spine extension
+Performs road safety drill,Does perform travelling activities
+Disorder of human growth hormone,Hormone abnormality
+Orbital margin discontinuity,Orbital margin observation
+Jugular venous distension,Distended vein
+Wound epithelialization,Wound observation
+O/E - reflexes - general,On examination - neurological reflex (finding)
+O/E - VE - uterine tenderness,On examination - vaginal examination (finding)
+Bizarre dreams (finding),Dream disorder
+Finding of tolerance of ambient temperature,Temperature-associated observation
+Abdominal wind pain,Abdominal pain
+Cervical smear - mild inflammation,Cervical smear - inflammatory change
+Does not carry out play and sports activities,Does not participate in leisure activities
+Anoxic epileptic seizure (finding),Anoxic seizure
+Able to walk,Observation of walking
+Pain in tooth,Observation of sensation of tooth
+Complaining of left iliac fossa pain (finding),Complaining of a pain (finding)
+O/E - straight leg raising,On examination - musculoskeletal (finding)
+Cap check - call deleted,Contraceptive cap status (finding)
+Statement made to police,Medicolegal procedure status
+Lingual dysarthria (finding),Dysarthria
+O/E - vibration sense,On examination - skin (finding)
+Normal biorhythm,Normal chronobiologic state
+Ear feels full of water,Observation of sensation of ear canal
+Bowel sounds quiet,Decreased bowel sounds
+O/E - joint position sense,On examination - joint (finding)
+Birth details not known,Finding of birth details
+Nose-picking,Habit
+Expiratory dyspnoea,Dyspnea
+Bowed clavicle,Observation of clavicle structure
+Tonic neck reflex absent,Tonic neck reflex finding
+Finger joint - synovial thickening,Finger joint - soft tissue swelling
+Unable to avoid obstacles when running,Unable to avoid obstacles in path
+Constantly crying baby,Family problems
+Status postraptum (finding),Sexual aggression (finding)
+Seen by Accident and Emergency doctor (finding),Seen by specialist physician (finding)
+Menopause monitoring status,Chronic disease monitoring status
+Abnormal finding on evaluation procedure,Evaluation finding
+Alcohol in blood specimen above reference range,Measurement finding above reference range
+Spasm of back muscles,Musculoskeletal system observation
+On examination - suprapatellar jerk unequal (finding),O/E - suprapatellar reflex
+Normal stapes mobility,Observation of stapes mobility
+Paralysis following electric shock (finding),Effect of exposure to physical force
+Liver tender,Tenderness of truncal structure
+Calcaneus gait,Abnormal gait (finding)
+Normal passive range of knee external rotation,Finding of passive range of knee external rotation
+Observation of present pain intensity,Pain observations
+On examination - patient feels well (finding),On examination - patient well (finding)
+Unable to use cooking utensils,Unable to use domestic equipment
+Unable to slice food,Finding related to ability to slice food
+Manages steps and stairs,Does mobilize
+MRC Breathlessness Scale: grade 4,Dyspnea
+Finding related to ability to use secondary articulation,Finding related to ability to articulate
+Does not turn off domestic appliance,Finding related to ability to turn off domestic appliance
+Does not greet,Finding related to ability to greet
+Increased passive range of shoulder lateral rotation,Increased range of shoulder movement
+Alanine aminotransferase (ALT) (serum glutamic-pyruvic transaminase) (SGPT) level abnormal,Measurement finding outside reference range
+pT2: Tumor more than 2 cm but not more than 4 cm in greatest dimension (lip and oral cavity) (finding),Lip and oral cavity TNM finding (finding)
+Observation of power of skeletal muscle,General observation of soft tissue
+Nasal mucosa edematous,Edema of face (finding)
+O/E - fetal movements seen,On examination - specified examination finding (finding)
+Finding of passive range of cervical spine flexion,Finding of range of flexion of cervical spine
+Disabled registration application - examined,Disabled registration application status
+Refusal of feeds in infant,Observation of infant feeding pattern
+Able to perform mouthcare activities,Able to perform personal hygiene activity
+Salivary colic,Craniofacial pain
+FTR - Fit to return to work,Fit for work
+PR6 - Parity 6,Grand multiparity unspecified
+O/E - gait,On examination - specified examination finding (finding)
+Abdominal aortic bruit,Abdominal bruit
+Able to grip using supination of wrist,Able to grip
+Swelling of inguinal region,Swelling of lower limb (finding)
+Smooth muscle antibodies weakly positive,Smooth muscle antibodies positive
+Supraglottic erythema,Erythema - observation
+Lymphatic (small vessel) intramural invasion by tumor present (finding),Lymphatic (small vessel) invasion by tumor present (finding)
+Sample fungus not isolated (finding),Finding of growth of fungi
+Finding related to ability to operate taps,Finding related to ability to perform general manipulative activities
+Does not sit,Does not move
+Lymphocyte count abnormal,Hematopoietic system finding
+Cannot touch small of back,Finding of movement of shoulder
+Prostate enlarged on PR,Prostatomegaly
+Mass of prepuce,Lesion of prepuce
+Tenderness in upper limb,Tenderness in limb
+Current non-drinker of alcohol (finding),Finding relating to alcohol drinking behaviour
+Needs an advocate,Observations relating to advocacy
+Difficulty hitting,Difficulty moving
+Changed perception of things,Abnormal perception
+Increased active range of hip medial rotation,Finding of active range of hip internal rotation
+Sacrocoxalgia,Pain in lower limb
+Child height=25th-49th centile,Child height centile finding
+Annular hymen,Observation of shape of hymen
+On examination - peripheral pulse (finding),On examination - pulse (finding)
+Seen by pathology service,Seen by service
+Increased passive range of ankle extension,Increased range of ankle movement
+Isolated explosive outburst,Aggressive behavior
+Able to use automatic language,Finding related to ability to use automatic language
+Plaque in skin or mucosa,Skin AND/OR mucosa finding (finding)
+Micturition frequency normal,Observation of frequency of urination
+Main spoken language Finnish (finding),Main spoken language (finding)
+Claw hand,Deformity of hand
+Does not use phonological processes,Abnormal voice
+O/E - joint position sense,On examination - pain and sensation (finding)
+Increasing exercise wheeze,Respiratory disease monitoring status
+Child head circumference 98.1st-99.6th centile,Child head circumference centile finding
+Knee joint - cool,Knee joint temperature observation
+Bony swelling of the cervical spine,Cervical spine - swollen
+O/E - perceptive deafness,Ear and auditory observations
+Absence of postural sense,Observation of position sense
+O/E - biceps reflex,On examination - specified examination finding (finding)
+O/E - VE - uterine tenderness,On examination - uterus (finding)
+Finding related to ability to clean toilet,Finding related to ability to clean domestic sanitary facilities
+On examination - female genitalia (finding),On examination - genitalia (finding)
+On examination - depth of respiration normal (finding),On examination - depth of respiration (finding)
+Difficulty drinking from feeder cup,Finding related to ability to drink from feeder cup
+Headache associated with substance abuse or withdrawal,HA - Headache
+Driving fitness status,Special examination status
+Magnetic resonance imaging of lumbar spine abnormal (finding),Magnetic resonance imaging scan abnormal
+Unable to get off a bed,Unable to get on and off a bed
+O/E - pulse borderline slow,Bradycardia - pulse
+Bleeding of surface of nipple,Observation of nipple bleeding
+Breast fed at 6 weeks,Finding of infant feeding at 6 weeks
+Slow weight gain (finding),Weight gain
+Meconium stained amniotic fluid,Finding of consistency of amniotic fluid
+Pendulous breast,Observation of form of breast
+Does use right hand to feed self,Does use hands to feed self
+Fimbriated hymen,Observation of shape of hymen
+O/E - sign hard,O/E - consistency of sign
+Type B Wolff-Parkinson-White pattern,Abnormal EKG finding
+Uterine contractions present,Observation of uterine contractions
+Serum bicarbonate level abnormal,Finding of bicarbonate level
+Full blood count borderline,Evaluation finding
+Personal hygiene disability,Finding related to ability to perform personal hygiene activity
+Sore throat symptom,Observation of sensation of pharynx
+Hormone replacement monitoring check done,Hormone replacement monitoring status
+Disability of arm (finding),Disability of upper limb (finding)
+On examination - site of sign (finding),On examination - general sign (finding)
+C/O - bizarre dreams,C/O - dreams
+Bilirubin in sample,Finding of bilirubin level
+pTis: Tumour invades muscularis mucosae (colon/rectum),Tis: Tumour invades muscularis mucosae (colon/rectum)
+Unable to move tongue laterally,Unable to move tongue
+Hematocrit - PCV - low,Hematocrit - PCV abnormal
+Difficulty processing information at normal speed,Finding related to ability to process information at normal speed
+Thumb absent,Observation of thumb
+Desire to push in labor (finding),Finding of delivery push in labour
+Comfortable appearance,General observation of appearance
+Does not turn onto side in bed,Finding related to ability to turn onto side in bed
+Distance of adenoma from anal verge unknown (finding),Distance of tumor from anal verge unknown (finding)
+Superficial contact lens-induced peripheral corneal vascularisation,Vascularisation of cornea
+Born in Greece,Country of birth - European
+Memory: present place known,Finding of memory for present place
+Unable to use washing machine,Unable to use domestic equipment
+Acid-fast bacilli in sputum,Finding of presence of bacteria
+Wound/tissue perfusion consistent with or improved from preoperative baseline (finding),Perfusion finding (finding)
+Sighing respiration,Abnormal respiratory rhythm
+Minor surgery done - cautery,Minor surgery done
+Anus normal,Anal observations
+Lumbar spine hypermobility,Hypermobility of spine
+Isolated facial tremor,Tremor
+Rib tender,Chest wall tenderness
+Vulva not seen,Vulva observation
+Finding related to ability to ride and propel toy,Finding related to ability to play
+Supplies not available (finding),Equipment observation
+Gouging own eyes,Gouging own body parts
+Ankle joint laxity,Ankle joint observation
+Finding related to ability to push and pull a small wheeled toy forwards,Finding related to ability to push and pull
+Bilateral foot joint pain (finding),Pain in right lower limb (finding)
+Weaning diet,Dietary finding
+Secondary astigmatism (finding),Higher-order wavefront aberration (finding)
+Unable to travel on foot,Finding related to ability to travel on foot
+Elbow joint - warm,Elbow joint temperature observation
+Does not position baby at breast for feeding,Does not perform breast-feeding
+Asthma never restricts exercise,Asthma not limiting activities
+Shoulder joint - painful arc,Shoulder joint painful on movement
+Passport application status,Application status
+Satisfactory for evaluation but limited by partially obscuring blood,Specimen satisfactory for evaluation but limited
+Knee joint crepitus palpable,Knee joint crepitus
+Lifestyle,Finding relating to behaviour
+Oral surgery domiciliary visit done,Domiciliary visit received
+pTX: Primary tumour cannot be assessed (breast),pTX category (finding)
+Dipstick test observation,Evaluation finding
+ECG: P wave abnormal,Abnormal EKG finding
+Immunoelectrophoresis abnormal,Measurement finding outside reference range
+Unable to feed self with left hand,Unable to use hands to feed self
+Does not get off toilet,Does not get on and off toilet
+Understands diet - diabetes,Diabetic monitoring status
+Discharging mastoid cavity - purulent,Discharging mastoid cavity
+Increased range of thoracic spine movement,Finding of thoracic spine - range of movement
+Heart rate fast,Observation of heart rate
+Repetitive rocking movements,Repetitive routines
+Excessive dietary intake of iron (finding),Excessive dietary mineral intake (finding)
+Lithotomy position,Lying flat on back
+Surgical uncinate process margin involved by malignant neoplasm (finding),Surgical pancreatic margin involved by malignant neoplasm (finding)
+Finding of venous pressure,Blood pressure finding (finding)
+Perseveration,Language finding
+Balances when sitting,Does balance
+Cryalgesia,Effect of exposure to physical force
+Transient neurological symptoms,Nervous system symptoms
+Able to analyze information (finding),Finding related to ability to analyze information (finding)
+Does run up a slope,Finding related to ability to run up a slope
+On examination - Amputated left toe (finding),Amputated toe
+Finding of cerebrospinal fluid: globulin level,Finding of globulin level
+Surgical pancreatic parenchymal margin involved by in situ carcinoma (finding),Surgical margin involved by in situ carcinoma (finding)
+O/E - micturition reflex,On examination - specified examination finding (finding)
+Cord oozing,Observation of appearance of umbilical stump
+On examination - vaginal examination - os 4-6cm dilated (finding),Cervical dilatation finding
+Observation of balance,Clinical history and observations
+Umbilical cord normal,Umbilical cord observations
+Child 21 month examination abnormal: refer,Child examination finding
+Does use secondary articulation,Finding related to ability to use secondary articulation
+Cerebrospinal fluid flow finding (finding),Central nervous system observation
+Surgical distal margin is closest uninvolved margin to malignant neoplasm (finding),Surgical distal margin finding (finding)
+Specimen type not specified (finding),Histopathology observation
+Wound haematoma,Bleeding
+Difficulty cleaning cooker,Finding related to ability to clean cooker
+O/E - VE - gravid uterus,On examination - vaginal examination (finding)
+A pattern vergence,Vergence on vertical movement of eyes
+Infectious agent in bloodstream (finding),Bloodstream finding (finding)
+Large areola,Areola observation
+Uses knife and fork to feed self,Finding related to ability to use knife and fork to feed self
+Finding related to ability to reproduce geometric figure at five minutes,Finding of visual short-term memory performance
+Squatting in water,Position in water
+Compensatory articulatory substitution (finding),Articulatory defect
+Handles money,Finding related to ability to handle money
+Does clean room,Finding related to ability to clean room
+Chest auscultation observations,Finding by auscultation
+Blood copper abnormal,Finding of trace element level
+Cannabis misuse (finding),Misuses drugs
+Does not imitate forms of communication,Finding related to ability to imitate forms of communication
+Finding of active range of hip extension,Finding of range of hip extension
+Disturbance of orientation in time,Disturbance of orientation
+Scanty tear production,Observation of moistness of eye
+Difficulty WB on right leg,Finding related to ability to weight-bear on right leg
+On examination - abdominal wall contour normal (finding),On examination - specified examination finding (finding)
+Excessive blinking - involuntary,Observation of involuntary movement
+Flare reaction,Finding of contact sensitivity response
+Does not clean shower,Finding related to ability to clean shower
+Unable to cut toenails,Finding related to ability to cut own toenails
+Sputum culture positive for human respiratory syncytial virus (finding),Microbiologic culture of sputum positive (finding)
+Emmetropization (finding),Eye finding
+Surgical omental margin is closest uninvolved margin to malignant neoplasm (finding),Surgical omental margin finding (finding)
+Mediastinal observation,Observation of region of thorax
+Self-mutilation of penis,Self-mutilation of genitalia
+TIMI grade 1: penetration without perfusion,Perfusion finding (finding)
+Able to articulate words,Finding related to ability to articulate words
+Finding of joint angulation,Observation of measures of joint
+Finding related to ability to get on a bed,Finding related to ability to get on and off a bed
+Difficulty using non-verbal communication,Difficulty communicating
+Spermatozoa abnormal,Semen exam: abnormal
+Difficulty managing menstrual hygiene,Finding related to ability to manage menstrual hygiene
+Difficulty in walking backward pulling large toy,Difficulty walking (finding)
+Environment contains contaminating agent (finding),Environmental finding
+Difficulty undressing,Finding related to ability to undress
+Faeces odour finding,Odour of specimen - finding
+Callus of bone (finding),Bone finding
+Drinks at home,Finding of drinking environment
+Able to avoid obstacles when running,Finding related to ability to avoid obstacles when running
+Peak flow rate normal,Measurement finding within reference range
+Dissociated atrioventricular nodal function,Myocardial observation
+Urinary catheter in situ (finding),Device in situ (finding)
+Umbilical discharge,Umbilicus observation
+Compulsive drug taking (finding),Obsessive compulsive behaviour
+Surgically constructed radiocephalic arteriovenous fistula (finding),Systemic arterial observation
+Swelling of male genital structure,Swelling of urogenital structure
+Tends to exaggerate emotional expression inappropriately,Histrionic character
+Finding related to response to skin test,Dermatological test observations
+Finding related to ability to make considered choices,Finding related to decision making
+Ankle joint - warm,Ankle joint temperature observation
+Increased uroporphyrin,Increased porphyrin
+O/E - renal angle tenderness,On examination - tenderness (finding)
+Female genital tract problem,Female genitalia observations
+Special examination - NAD,Screening finding
+Cytochrome p450 enzyme activity finding (finding),Enzyme activity finding (finding)
+O/E - level of consciousness,O/E - mental state
+Kick chart issued,Kick chart status
+Mass of digestive structure,Observation of a mass
+Does not insert and remove waste plug,Does not use washing facilities
+Inguinal canal observation,Finding of abdomen
+Lutheran blood group phenotype,Finding of minor blood group
+Interpreter present,Presence of interpreter
+Observation of temperature sense,Observation of sensation of skin
+Anterior capsular lens opacities,Anterior lens opacities
+Does find words,Finding related to ability to find words
+Finding of difference in radiographic attenuation compared to previous radiologic examination,Finding of change compared to previous radiologic examination
+Renal tumor limited to kidney macroscopically (finding),Renal tumor finding (finding)
+Environment contains allergens (finding),Sanitation finding
+Sole of footwear too rigid,Sole of footwear observations
+Anal canal TNM finding (finding),TNM tumour staging finding
+Akatonoesis,Disturbance of understanding
+Finding related to bruising (finding),Observation of appearance of skin
+Does crouch,Finding related to ability to crouch
+Does not walk up step,Does not walk
+ECG: atrial ectopics,Cardiac observations
+3.5 year examination abnormal - for observation,Child examination finding
+Hypokinetic RV wall,Hypokinesis of cardiac wall
+Conjunctival keratinisation,Keratinisation of ocular surface
+Biopsy result normal,Biopsy finding
+Does use clothes drying equipment,Does use domestic equipment
+Underexertion,Energy and stamina finding
+Immunoglobulins normal,Finding of immunoglobulin level
+Localized edema,Interstitial edema
+Myalgia/myositis -pelvis/thigh,Myalgia
+Seen by chemical pathology service (finding),Seen by pathology service
+Observation of cervical cerclage suture,Pregnancy observations
+O/E - uvula movement,Finding of movement of uvula
+Observation of bone of leg,Bone finding
+Victim of financial abuse,Victim of abuse (finding)
+Anterior chamber - abnormal contents,Anterior chamber observation
+Ro antibody negative,Negative measurement finding
+Rheumatoid factor positive,Finding of rheumatoid factor level
+Finding of pubic bone (finding),Bone finding
+Does travel on foot,Finding related to ability to travel on foot
+Cord clamp off,Observation of umbilical cord clamp
+Abnormal immunological finding in specimen from female genital organ,Abnormal finding on evaluation procedure
+Uses spacer device (finding),Observation of respiratory device
+Tenalgia,Tendon observation
+Recognises self,Finding related to ability to recognise self
+Serum folate borderline high,Borderline high measurement finding
+Head finding (finding),Finding of head and neck region
+Feeling hatred,Emotional state
+HIV CDC category B3 (AIDS),Human immunodeficiency virus Centers for Disease Control and Prevention category B (finding)
+Tonometry normal,Measurement finding
+Finding of bladder appearance,Bladder observation
+Blood pressure screening - recall deleted (finding),Hypertension screening status
+Born in Bahrain,Country of birth - Asian
+Does not walk carrying large toy,Finding related to ability to walk carrying large toy
+Increased active range of lumbar spine right rotation,Increased range of lumbar spine movement
+Removal of implant since previous mammogram,Change since last mammogram
+Observation of desire for stool,Finding related to awareness of bowel function
+Difficulty using cooker,Finding related to ability to use cooker
+Surgical lateral (mucosal/mural) margin involved by adenoma (finding),Surgical mucosal margin finding (finding)
+Decreased prolactin level,Measurement finding below reference range (finding)
+Tactile discrimination left foot normal,Observation of touch discrimination
+Unable to move in bed,Finding related to ability to move in bed
+4.5 year examination abnormal - on treatment,Child examination finding
+Calcified skin of breast,Radiographic calcification
+Tenderness of digestive structure,Tenderness of body structure
+Abnormally small cardiac chamber (finding),Myocardial observation
+Lax female perineum,Observation of tone of female perineum
+Unable to dress,Unable to perform dressing activity
+Lives in squalid conditions,Dirty home
+Spontaneous closure of residual atrial septal defect within oval fossa,Spontaneous closure of foramen ovale (finding)
+Facial symmetry,Observation of proportion of face
+Wide fontanelle,Finding of size of fontanelle
+Temporal pallor of optic disc,Optic disc observation
+Displacement of pupil light reflex,Finding of eye movement
+Back towards trunk position,Towards trunk position
+Does not swallow,Finding related to ability to swallow
+Well man monitoring check done,Well man monitoring status
+Foreign travel history finding,Social and personal history finding
+Difficulty using heating appliance,Finding related to ability to use heating appliance
+Posterior fontanelle palpable posterior,Posterior fontanelle palpable vaginally (finding)
+O/E - abdominal scar,On examination - skin (finding)
+Finding of fetal heart rhythm,Fetal heart observation
+O/E - right healed foot ulcer,O/E - foot
+Avoidance coping,Finding related to ability to cope (finding)
+Tender scar of upper uterine segment,Body of uterus observation
+Lysergic acid diethylamide (LSD) reaction,Bad trips
+Partial failure of hair growth,Failure of hair growth (finding)
+Born in Gabon,Country of birth - African
+Heightened perception,Sensory distortion
+Transection of hymen,Observation of shape of hymen
+On examination - absence of sensation (finding),On examination - specified examination finding (finding)
+Able to recognize own name as written (finding),Finding related to literacy level (finding)
+Does tie shoe laces,Finding related to ability to tie shoe laces
+No passive range of ulnar deviation of wrist,No wrist movement
+Normal active range of thoracic spine right rotation,Finding of active range of thoracic spine right rotation
+Handles money,Manages personal financial activities
+Prostate tumor incidental histologic finding in more than 5% of tissue resected (finding),Tumor finding (finding)
+Cervix tender,Observation of sensation of cervix
+Does imitate tongue movements,Finding related to ability to imitate tongue movements
+Always has breakfast,Finding of breakfast routine
+On examination - weight 10-20% over ideal (finding),On examination - overweight (finding)
+Finding related to ability to push and pull a large wheeled toy backwards,Finding related to ability to push and pull
+Pain on joint movement,Articular pain
+Difficulty walking up step,Impaired walking
+Unable to use correct manner of articulation,Finding related to ability to use correct manner of articulation
+Tenderness of epigastrium,Abdominal tenderness
+O/E - pelvic bone abnormal,On examination - specified examination finding (finding)
+Does not use microwave oven,Finding related to ability to use microwave oven
+Finding of retraction of foreskin,Foreskin observation
+Tumor of advanced extent (finding),Tumor finding (finding)
+Eardrum inflamed,Tympanic membrane observation
+Finding of individual income,Income finding
+O/E - VE - ovarian swelling,On examination - ovary (finding)
+Drinks with family,Drinks in company
+Born in Cape Verde Islands,Country of birth - African
+Seen in community diabetes specialist clinic (finding),Seen in diabetic clinic
+Eats in restaurants,Finding of catering source
+Blood group A Rh(D) positive,Blood group A
+Egocentric character,Finding of level of egocentricity
+Bone tenderness,Musculoskeletal tenderness
+Worried about not coping with baby,Anxiety about not coping with parenthood
+Amenorrhea associated with obesity (finding),Dysponderal amenorrhoea
+Corneal hypoesthesia (finding),Corneal nerve observation
+Dissociation - mental defence mechanism,Mental defence mechanism finding
+Wearing seat belt (finding),Safety behaviour observation
+Dysfunction of hand,Finding related to ability to perform hand functions
+Unable to cut own nails,Finding related to ability to cut own nails
+Fecal continence,Observation of large intestine
+Does not cough,Finding related to ability to cough
+Benefits received,Finding of receipt of benefit status
+Uterus deviated to left,Finding of position of uterus
+Abnormal respiratory sounds,Finding of breath sounds
+Able to articulate clearly,Able to make speech sounds
+Burping,Observation of flatulence
+Seen by geriatric medicine service,Seen by medical service
+Isolated calendar skills,Isolated skills associated with general impairment
+O/E-maxillary sinus tenderness,O/E - paranasal sinuses
+Marked peritumoral lymphocytic response (finding),Intratumoral/peritumoral lymphocytic response marked (finding)
+Hip joint crepitus palpable,Hip joint crepitus
+Under care of counselor (finding),Under care of person
+Myasthenic facies,Abnormal facies
+Finding of liver enzyme levels,Finding of enzyme level
+Stop smoking monitoring delete,Smoking monitoring status
+Finding related to ability to produce voiceless sounds,Finding related to ability to produce voice
+Demonstrates knowledge of medication management (finding),Healthcare knowledge finding (finding)
+Moderate drinker - 3-6u/day (finding),Moderate drinker (finding)
+Mumps non-immune (finding),Finding of immune status
+Currently not sexually active,Finding of frequency of sexual activity (finding)
+Amnesia for important personal information,LOM - Loss of memory
+On examination - lymph nodes (finding),On examination - specified examination finding (finding)
+On examination - edema (finding),On examination - specified examination finding (finding)
+Surgically transgendered transsexual,Surgically transgendered transsexual (finding)
+Serum tumor marker levels unknown (finding),Finding of serum tumor marker level (finding)
+Does use non-verbal communication,Finding related to ability to use non-verbal communication
+Anorexia symptom,Appetite symptom
+Gravida more than 10,Multip
+Prosthetic eye in situ (finding),Observation of prosthesis of eyeball
+Does not balance when bending,Finding related to ability to balance when bending
+Inadequate sanitation,Sanitation finding
+Child in family care,Looked after and accommodated child
+Limited downward eye movement (finding),Limited eye movement (finding)
+Bleeding tooth socket,Bleeding
+Practitioner presence (finding),Doctor patient status
+Moved away,Patient registration status
+Rest pattern disrupts family lifestyle (finding),Sleep rest pattern finding
+Vocal cords thickened,Lesion of vocal cord
+pT1: Tumor 10 mm or less in greatest diameter and 2.5 mm or less in greatest height (thickness) (ciliary body and choroid) (uveal melanoma) (finding),Uveal melanoma TNM finding (finding)
+Sweaty feet,Observation of foot region
+Mimicry,Motor function behaviour finding
+Retinal thickening (finding),Retina finding (finding)
+On examination - inspection of feces (finding),Stool observation
+No response to low frequency sounds,Ear observation
+Maximal voluntary ventilation capacity reduced,Ventilation finding
+Foetal heart acceleration,Fetal heart observation
+Violence between parents,Abusive behaviour
+Urine electrolytes normal,Electrolytes normal
+Inability to imitate tongue movements,Finding related to ability to imitate tongue movements
+Hypogammaglobulinemia,Abnormal gamma globulin level
+Amine test positive,Evaluation finding
+Police request to attend payment claim status,Examination payment claim status
+Minor surgery done,Minor surgery status
+Dysdiadokokinesia,Dyskinesia
+Heavy cigarette smoker (finding),Heavy smoker (over 20 per day) (finding)
+Red cell folate abnormal,Finding of folic acid level
+Myoclonus,Observation of involuntary movement
+Does not bend,Finding related to ability to bend
+Anal Papanicolaou smear positive for malignant neoplasm (finding),Positive cytology findings
+Serum chloride level abnormal,Finding of chloride level
+Separated from cohabitee,Separated
+Finding by percussion,Finding by method
+Faddy eater,Observation of eating pattern
+Abnormal bone marrow iron,Bone marrow iron finding (finding)
+Metastasis stage M1a (finding),Metastasis stage M1
+Skin disorder monitoring status,Chronic disease monitoring status
+Does comment on events,Finding related to ability to comment on events
+Loss of fundal mass after delivery,Observation of involution of uterus
+On examination - hernial orifices examined (finding),On examination - digestive system (finding)
+False teeth loose,Maxillofacial prosthesis loose
+Drug not available - out of stock,Drugs not issued
+Increased passive range of thumb opposition,Finding of passive range of thumb opposition
+Isolated proteinuria (finding),Proteinuria
+O/E - nasopharyngeal signs,Nasopharynx observation
+Tumor pigmentation indeterminate (finding),Tumour configuration
+Floppy posture,Abnormal posture
+Sexual harassment by female,Sexual harassment (finding)
+Brow ptosis,Observation of face
+Unable to wash food,Unable to prepare food for eating
+Able to mobilise outside,Able to mobilize
+Abdominal aorta observation,Finding of aorta
+Spitting at other person,Antisocial behavior
+Increased alpha>1< globulin,Increased alpha-globulin
+Thick cervical mucous,Observation of consistency of cervical mucous
+Urine microscopy: hyaline casts,Urinary casts (finding)
+Bearing down reflex,Clinical sign related to pregnancy
+Unsatisfactory cosmetic appearance of surgical scar,Surgical scar finding
+Dental crown present,Dental restoration present
+Scratch of toe,Lesion of toe
+Mental state,Mental state
+Raised tumor (finding),Tumour configuration
+Unable to eat certain food,Finding related to ability to eat certain food
+Good awareness of safety at work,Finding related to awareness of safety at work
+Language barrier impedes ability to use community resources (finding),Communication with community resources
+Plain X-ray scaphoid abnormal,Plain X-ray carpus abnormal
+Smear infected - recall delete,Cervical smear status
+Patient misunderstood treatment instructions,Deficient knowledge: medication regimen
+ABO group phenotype,Blood group phenotype
+Observation of peripheral pulse,Systemic arterial observation
+Tolerant of ambient temperature,Finding of tolerance of ambient temperature
+Does communicate about self,Finding related to ability to communicate about self
+Looks ill,General body state finding
+Character trait observations of anger control,Character trait finding
+Asymmetric breast tissue,Mammographic breast tissue appearance
+Demoted at work,Finding relating to changes in job
+School refusal,Intentional non-attendance at school
+Unable to alternate between sitting and standing,Finding related to ability to alternate between sitting and standing
+Ascitic fluid examination abnormal,Finding related to evaluation of ascitic fluid (finding)
+Seen by clinical nurse specialist,Seen by nurse
+Excessive sexual desire in women,Abnormal compulsive behavior
+Heart sound volume variable,Finding of volume of heart sounds
+Runs down a slope,Does run
+Removing own nails,Deliberate self-harm
+Moderate fetal heart rate variability (finding),Finding of fetal heart rate variability
+Unable to avoid obstacles in path,Unable to negotiate obstacles
+Difficulty turning onto side in bed,Finding related to ability to turn onto side in bed
+Surgical exocervical margin finding (finding),Surgical margin finding (finding)
+Finding of hair characteristics,Hair observation
+Difficulty swallowing,Finding related to ability to swallow
+Able to remove prosthesis,Finding related to ability to remove prosthesis
+Electrocardiogram: junctional tachycardia (finding),Finding present on electrocardiogram (finding)
+Unable to analyze information (finding),Mental state finding
+Increased active range of hip adduction,Finding of active range of hip adduction
+General areflexia,Reflex finding
+Ocular flutter,Non-rhythmic abnormal eye movement
+Difficulty performing logical sequencing,Finding related to logical sequencing ability
+Difficulty putting on prosthesis,Finding related to ability to put on prosthesis
+Swellings and lumps,General finding of observation of patient
+On examination - prostate (finding),On examination - male genitalia (finding)
+Received university education,Received higher education
+Finding of bacteria: serology,Finding of bacterial antibody titer
+Unable to prepare meal,Unable to prepare food for eating
+Observation of device of middle ear,Middle ear observations
+Inconclusive retinal photography,Imaging finding
+Satisfactory for evaluation but limited by absence of an endocervical/transformation zone component from a patient with a cervix,Cervical cytology observations
+Finding of passive range of hip external rotation,Finding of range of hip external rotation
+Sixth cranial nerve finding,Peripheral nerve observation
+Decreased vitamin B>12<,Finding of drug level
+Abnormal secretin,Hormone abnormality
+Observation of shoulder joint,Observation of shoulder region
+Nodule in skin or mucosa,Observation of a mass
+Feeling distress,Emotional state
+On examination - lens (finding),Crystalline lens observation
+O/E - legs NAD,O/E - legs
+Tumor stage finding (finding),Tumor finding (finding)
+Does not swallow liquid,Does not swallow
+Does not use lavatory,Does not perform toileting activities
+Term birth of newborn,Birth (finding)
+Unable to produce voice,Finding related to ability to produce voice
+Delayed reaction time,Finding by site
+Unable to thread a needle,Finding related to ability to thread a needle
+Observation of sensation of nipple,Nipple observation
+Observation of bone in hand,Observation of bone of upper limb
+RBC count abnormal,Hematopoietic system finding
+Finding of apolipoprotein E phenotype,Phenotype
+Squatting body position (finding),Body position finding
+Immunisation invitation - not attended,Immunization invitation status
+Vascular lesion in skin or mucosa,Vascular sign OR symptom
+Isolated proteinuria with specified morphological lesion,Isolated proteinuria (finding)
+PR depression,Abnormal EKG finding
+Secondary cytopenia,Cytopenia (finding)
+Normal eyes closed straight line walking test,Nervous system finding
+M1b (IV): All other metastatic sites (finding),Metastasis stage M1b (finding)
+Lesion of oesophagus,Observation of oesophagus
+Hemodialysis access site patent (finding),Hemodialysis finding
+Hand pain,Pain in upper limb
+Nasal airway observation,Upper respiratory tract observations
+Normal glucose level,Finding of glucose level
+Anticonvulsant level therapeutic,Finding of therapeutic drug level
+Does wash own hair,Finding related to ability to wash own hair
+Child development - call deleted,Child development status
+No added salt diet (finding),Low sodium diet (finding)
+On examination - suprapatellar jerk exaggerated (finding),Hyperreflexia
+Nevus of oral mucosa,Mass of soft tissue (finding)
+Decreased range of shoulder movement,Finding of shoulder joint - range of movement
+Loose suture of cornea (finding),Corneal observation
+Cytoplasmic macromolecular aggregate,Cytopathology observation
+Urethral swab culture negative,Microbiologic culture finding negative (finding)
+Knee joint laxity,Knee joint observation
+Mobilises using wheelchair,Does mobilise using aids
+Seen by plastic surgeon,Seen by surgeon
+Excess skin of arm (finding),Finding of upper limb
+Discharge from penis,Observation of urethral discharge
+Finding of Tanner boys genital development,Virilization
+Tactile discrimination right foot normal,Observation of touch discrimination
+Spasm of pelvic muscles around vagina,Spasm
+Very strong uterine contractions,Observation of strength of uterine contraction
+Finding related to ability to turn off mains electricity supply,Finding related to ability to control mains electricity supply
+Salience of drink-related activities,Finding relating to alcohol drinking behaviour
+Child in police protection,Child protection observations
+On examination - pain and sensation (finding),On examination - specified examination finding (finding)
+O/E - pupil dilated,O/E - pupil size
+Thickening of flexor sheath of finger,Thickening of tendon sheath
+Suck finding (finding),Motor function behaviour finding
+Observation of measures of menstruation,Menstruation finding (finding)
+Alpha-fetoprotein (AFP) blood sent,Alpha-fetoprotein blood test status
+Finding related to ability to avoid obstacles in path,Finding related to ability to negotiate obstacles
+Disuse syndrome,Musculoskeletal system observation
+O/E - paresis (weakness),O/E - muscle power
+Baby premature 26 weeks (finding),Premature infant (finding)
+Able to rise from squatting,Finding related to ability to rise from squatting
+Able to use scissor grip,Able to grip
+Screened - no result yet,Screening status
+Does not wash food,Does not prepare food for eating
+Pyrexial convulsion,Seizure
