@@ -7,6 +7,7 @@ Named entities which composed of multiple continuous words frequently occur in k
 Hypernymy detection is useful for natural language processing (NLP) tasks such as taxonomy creation, ontology extension, textual entailment recognition, sentence similarity estimation and text generation. However, existing methods for hypernymy detection deal with the case where an entity only includes a word. In this work, we present a novel attention-based Bi-GRU-CapsNet model to detect hypernymy relationship between compound entities.
 
 Our model integrates several important components. English words or Chinese characters in compound entities are fed into Bidirectional Recurrent Units (Bi-GRUs) to avoid the Out-Of-Vocabulary (OOV) problem. An attention mechanism is then designed to focus on the differences between two compound entities. Since there are different cases in hypernymy relationship between compound entities, Capsule Network (CapsNet) is finally employed to decide whether the hypernymy relationship exists or not. Experimental results demonstrate the advantages of the proposed model over the state-of-the-art methods both on English and Chinese corpora of symptom and disease pairs.
+
 This repository provides two corpora which contain hypernymy pairs of symptoms and diseases in English and Chinese. We will release the source code of this work after publication.
 
 
