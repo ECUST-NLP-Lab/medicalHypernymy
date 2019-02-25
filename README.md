@@ -99,4 +99,4 @@ We select six Chinese healthcare websites, and extract hypernymy and synonymy re
 </table>
 
 ## Source Code
-We will release the source code of this work after publication.
+We put our source code in example folder with example training set, validation set and test set.
