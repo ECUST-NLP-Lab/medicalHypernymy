@@ -498,8 +498,8 @@ config.gpu_options.allocator_type = 'BFC' #A "Best-fit with coalescing" algorith
 config.gpu_options.per_process_gpu_memory_fraction = 0.2
 config.gpu_options.allow_growth = True
 set_session(tf.Session(config=config))
-# bi_GRU = Bidirectional(GRU(LSTM_Dim, unroll=False, return_sequences=True))
-bi_GRU = Conv1D(CNN_filters, 3, strides=1, padding='same', dilation_rate=1, activation='relu')
+bi_GRU = Bidirectional(GRU(LSTM_Dim, unroll=False, return_sequences=True))
+# bi_GRU = Conv1D(CNN_filters, 3, strides=1, padding='same', dilation_rate=1, activation='relu')
 
 linerLayer = LinerLayer()
 embedding_layer = Embedding(num_words + 1,
