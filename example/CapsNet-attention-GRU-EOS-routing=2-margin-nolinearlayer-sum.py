@@ -482,31 +482,30 @@ class LinerLayer(Layer):
 
 
 
+
 from keras.models import Sequential
-from keras.layers import SimpleRNN, GRU, Activation, Dense, concatenate, dot, add, multiply, Activation, Lambda, Conv1D
+from keras.layers import SimpleRNN, GRU, Activation, Dense, concatenate, dot, add, multiply, Activation, Lambda
 from keras.layers.core import Masking, Flatten, Reshape, RepeatVector, Permute, Flatten
-from keras.layers.pooling import MaxPooling1D, GlobalMaxPool1D
+from keras.layers.pooling import MaxPooling1D
 from keras import backend as K
 
 import tensorflow as tf
 from keras.backend.tensorflow_backend import set_session
 
 # os.environ["CUDA_VISIBLE_DEVICES"] = '0, 1'
-os.environ["CUDA_VISIBLE_DEVICES"] = '0'
+os.environ["CUDA_VISIBLE_DEVICES"] = '1'
 config = tf.ConfigProto()
 config.gpu_options.allocator_type = 'BFC' #A "Best-fit with coalescing" algorithm, simplified from a version of dlmalloc.
 config.gpu_options.per_process_gpu_memory_fraction = 0.2
 config.gpu_options.allow_growth = True
 set_session(tf.Session(config=config))
 bi_GRU = Bidirectional(GRU(LSTM_Dim, unroll=False, return_sequences=True))
-# bi_GRU = Conv1D(CNN_filters, 3, strides=1, padding='same', dilation_rate=1, activation='relu')
-
 linerLayer = LinerLayer()
 embedding_layer = Embedding(num_words + 1,
                             Embedding_Dim,
 #                             weights=[embedding_matrix],
                             input_length=MAX_SEQ_LEN,
-                            mask_zero=False, 
+                            mask_zero=True, 
                             trainable=True)
 
 input_layer_1 = Input(shape=(MAX_SEQ_LEN,))
@@ -514,14 +513,13 @@ embedding_layer_1 = embedding_layer(input_layer_1)
 bi_GRU_1 = bi_GRU(embedding_layer_1)
 assert bi_GRU.get_output_at(0) == bi_GRU_1
 # max_pooling_1 = MaxPooling1D()(bi_GRU_1)
-bi_GRU_1= GlobalMaxPool1D()(bi_GRU_1)
 
 input_layer_2 = Input(shape=(MAX_SEQ_LEN,))
 embedding_layer_2 = embedding_layer(input_layer_2)
 bi_GRU_2 = bi_GRU(embedding_layer_2)
 assert bi_GRU.get_output_at(1) == bi_GRU_2
 # max_pooling_2 = MaxPooling1D()(bi_GRU_2)
-bi_GRU_2 = GlobalMaxPool1D()(bi_GRU_2)
+
 # #----------------求权重------------------------------------------------------
 # repeat_GRU_2=RepeatVector(MAX_SEQ_LEN)(bi_GRU_2)
 # weight_layer_1=concatenate([bi_GRU_1,repeat_GRU_2],axis=-1)
@@ -585,6 +583,7 @@ model = Model(inputs=[input_layer_1, input_layer_2, attention_layer_1, attention
 model.summary()
 
 print("finish model")
+
 
 
 
